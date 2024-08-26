@@ -5,6 +5,7 @@ RENCANA KONTEN RAMDHANI
  * Framework javascript
    ^ Vue.js
    ^ React.js
+   ^ Angular.js
 - Struktur Data Dasar
 - PHP Frameworks
   ^ Laravel
