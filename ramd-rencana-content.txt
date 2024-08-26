@@ -3,9 +3,11 @@ RENCANA KONTEN RAMDHANI
 - JavaScript
  * ES6
  * Framework javascript
-   ^ Angular.js
+   ^ Vue.js
    ^ React.js
+- Struktur Data Dasar
 - PHP Frameworks
   ^ Laravel
 - Interview
 - Vlog
+- Python
