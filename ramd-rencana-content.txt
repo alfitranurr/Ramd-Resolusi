@@ -1,6 +1,8 @@
 RENCANA KONTEN RAMDHANI
 
 - JavaScript
+ * ES6
+ * Framework javascript
 - PHP Frameworks
 - Interview
 - Vlog
